@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "MOIL",
+  "base_artist": "Keina Suda",
+  "createdAt": "2026-03-19T18:28:03.892151Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MOIL",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/01_MOIL_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "moil",
+      "artist": "suda keina",
+      "has_synced": true,
+      "path": "select/02_moil_suda_keina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MOIL",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/03_MOIL_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MOIL",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/04_MOIL_Keina_Suda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOIL",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_MOIL_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "MOIL",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_02_MOIL_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MOIL",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_03_MOIL_須田景凪.txt"
+    }
+  ]
+}
